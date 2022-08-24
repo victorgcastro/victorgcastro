@@ -1,7 +1,8 @@
-- 👋   Sobre mi
-- 
-- 👀  Meu nome e: @victorgcastro
-- 🌱 Eu estou interessado em apremder a programar novas linguagens
+ Sobre mim:
+- 👋 Ola, meu nome é: @victor_gcastro
+- Meu email de contato é: victor.gabrielgaio.castro@escola.pr.gov.br
+- 👀 Eu estou interessado em aprender novas linguagens
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem JavaScript e Scratch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
